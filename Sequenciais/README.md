@@ -1,8 +1,5 @@
 # Estrutura sequencial
 
-
-> Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
-
 ## 📝 Lista de exercícios
 - [X] 001 - Faça um Programa que mostre a mensagem "Alo mundo" na tela.<br><br>
 - [X] 002 - Faça um Programa que peça um número e então mostre a mensagem `O número informado foi [número]`.<br><br>
