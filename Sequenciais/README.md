@@ -4,13 +4,13 @@
 - [X] 001 - Faça um Programa que mostre a mensagem "Alo mundo" na tela.<br><br>
 - [X] 002 - Faça um Programa que peça um número e então mostre a mensagem `O número informado foi [número]`.<br><br>
 - [X] 003 - Faça um Programa que peça dois números e imprima a soma.<br><br>
-- [ ] 004 - Faça um Programa que peça as 4 notas bimestrais e mostre a média.<br><br>
-- [ ] 005 - Faça um Programa que converta metros para centímetros.<br><br>
-- [ ] 006 - Faça um Programa que peça o raio de um círculo, calcule e mostre sua área.<br><br>
+- [X] 004 - Faça um Programa que peça as 4 notas bimestrais e mostre a média.<br><br>
+- [X] 005 - Faça um Programa que converta metros para centímetros.<br><br>
+- [X] 006 - Faça um Programa que peça o raio de um círculo, calcule e mostre sua área.<br><br>
 - [ ] 007 - Faça um Programa que calcule a área de um quadrado, em seguida mostre o dobro desta área para o usuário.<br><br>
 - [ ] 008 - Faça um Programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês. Calcule e mostre o total do seu salário no referido mês.<br><br>
-- [ ] 009 - Faça um Programa que peça a temperatura em graus Fahrenheit, transforme e mostre a temperatura em graus Celsius.`C = 5 * ((F-32) / 9).`<br><br>
-- [ ] 010 -  Faça um Programa que peça a temperatura em graus Celsius, transforme e mostre em graus Fahrenheit.<br><br>
+- [ ] 009 - Faça um Programa que peça a temperatura em graus Fahrenheit, transforme e mostre a temperatura em graus Celsius.<br>`C = 5 * ((F-32) / 9).`<br><br>
+- [ ] 010 - Faça um Programa que peça a temperatura em graus Celsius, transforme e mostre em graus Fahrenheit.<br><br>
 - [ ] 011 - Faça um Programa que peça 2 números inteiros e um número real. Calcule e mostre:
 ``` 
 * o produto do dobro do primeiro com metade do segundo.
@@ -23,7 +23,10 @@
 * Para homens: (72.7*h) - 58
 * Para mulheres: (62.1*h) - 44.7<br><br>
 ```
-- [ ] 013 - João Papo-de-Pescador, homem de bem, comprou um microcomputador para controlar o rendimento diário de seu trabalho. Toda vez que ele traz um peso de peixes maior que o estabelecido pelo regulamento de pesca do estado de São Paulo (50 quilos) deve pagar uma multa de R$ 4,00 por quilo excedente. João precisa que você faça um programa que leia a variável peso (peso de peixes) e calcule o excesso. Gravar na variável excesso a quantidade de quilos além do limite e na variável multa o valor da multa que João deverá pagar. Imprima os dados do programa com as mensagens adequadas.<br><br>
+- [ ] 013 - João Papo-de-Pescador, homem de bem, comprou um microcomputador para controlar o rendimento diário de seu trabalho.<br>
+Toda vez que ele traz um peso de peixes maior que o estabelecido pelo regulamento de pesca do estado de São Paulo (50 quilos) deve pagar uma multa de R$ 4,00 por quilo excedente.<br> 
+João precisa que você faça um programa que leia a variável peso (peso de peixes) e calcule o excesso. Gravar na variável excesso a quantidade de quilos além do limite e na variável multa o valor da multa que João deverá pagar.<br> 
+Imprima os dados do programa com as mensagens adequadas.<br><br>
 - [ ] 014 - Faça um Programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês. Calcule e mostre o total do seu salário no referido mês, sabendo-se que são descontados 11% para o Imposto de Renda, 8% para o INSS e 5% para o sindicato, faça um programa que nos dê:<br>
 ``` 
 * salário bruto.
@@ -39,7 +42,7 @@ calcule os descontos e o salário líquido, conforme a tabela abaixo:<br>
 Informe ao usuário as quantidades de tinta a serem compradas e os respectivos preços em 3 situações:
 comprar apenas latas de 18 litros;
 comprar apenas galões de 3,6 litros;
-misturar latas e galões, de forma que o desperdício de tinta seja menor. Acrescente 10% de folga e sempre arredonde os valores para cima, isto é, considere latas cheias.
+misturar latas e galões, de forma que o desperdício de tinta seja menor. Acrescente 10% de folga e sempre arredonde os valores para cima, isto é, considere latas cheias.<br><br>
 - [ ] 017 - Faça um programa que peça o tamanho de um arquivo para download (em MB) e a velocidade de um link de Internet (em Mbps), calcule e informe o tempo aproximado de download do arquivo usando este link (em minutos).
 
 [⬆ Voltar ao topo](#exercicio-sequencial)<br>
