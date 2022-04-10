@@ -7,8 +7,8 @@
 - [X] 004 - Faça um Programa que peça as 4 notas bimestrais e mostre a média.<br><br>
 - [X] 005 - Faça um Programa que converta metros para centímetros.<br><br>
 - [X] 006 - Faça um Programa que peça o raio de um círculo, calcule e mostre sua área.<br><br>
-- [ ] 007 - Faça um Programa que calcule a área de um quadrado, em seguida mostre o dobro desta área para o usuário.<br><br>
-- [ ] 008 - Faça um Programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês. Calcule e mostre o total do seu salário no referido mês.<br><br>
+- [X] 007 - Faça um Programa que calcule a área de um quadrado, em seguida mostre o dobro desta área para o usuário.<br><br>
+- [X] 008 - Faça um Programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês. Calcule e mostre o total do seu salário no referido mês.<br><br>
 - [ ] 009 - Faça um Programa que peça a temperatura em graus Fahrenheit, transforme e mostre a temperatura em graus Celsius.<br>`C = 5 * ((F-32) / 9).`<br><br>
 - [ ] 010 - Faça um Programa que peça a temperatura em graus Celsius, transforme e mostre em graus Fahrenheit.<br><br>
 - [ ] 011 - Faça um Programa que peça 2 números inteiros e um número real. Calcule e mostre:
