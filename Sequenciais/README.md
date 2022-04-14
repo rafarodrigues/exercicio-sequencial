@@ -11,14 +11,14 @@
 - [X] 008 - Faça um Programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês. Calcule e mostre o total do seu salário no referido mês.<br><br>
 - [X] 009 - Faça um Programa que peça a temperatura em graus Fahrenheit, transforme e mostre a temperatura em graus Celsius.<br>`C = 5 * ((F-32) / 9).`<br><br>
 - [X] 010 - Faça um Programa que peça a temperatura em graus Celsius, transforme e mostre em graus Fahrenheit.<br><br>
-- [ ] 011 - Faça um Programa que peça 2 números inteiros e um número real. Calcule e mostre:
+- [X] 011 - Faça um Programa que peça 2 números inteiros e um número real. Calcule e mostre:
 ``` 
 * o produto do dobro do primeiro com metade do segundo.
 * a soma do triplo do primeiro com o terceiro.
 * o terceiro elevado ao cubo.<br><br>
 ```
-- [ ] 012 - Faça um programa tendo como dados de entrada a altura de uma pessoa, construa um algoritmo que calcule seu peso ideal, usando a seguinte fórmula: `(72.7*altura) - 58`
-<br>Tendo como dado de entrada a altura (h) de uma pessoa, construa um algoritmo que calcule seu peso ideal, utilizando as seguintes fórmulas:
+- [X] 012 - Faça um programa tendo como dados de entrada a altura de uma pessoa e<br> 
+construa um algoritmo que calcule seu peso ideal, utilizando as seguintes fórmulas:<br>
 ``` 
 * Para homens: (72.7*h) - 58
 * Para mulheres: (62.1*h) - 44.7<br><br>
