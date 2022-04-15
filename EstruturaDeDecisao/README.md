@@ -3,7 +3,7 @@
 ## 📝 Lista de exercícios
 - [X] 1 - Faça um Programa que peça dois números e imprima o maior deles.<br><br>
 
-- [ ] 2 - Faça um Programa que peça um valor e mostre na tela se o valor é positivo ou negativo.<br><br>
+- [X] 2 - Faça um Programa que peça um valor e mostre na tela se o valor é positivo ou negativo.<br><br>
 
 - [ ] 3 - Faça um Programa que verifique se uma letra digitada é "F" ou "M".<br>
 ```
