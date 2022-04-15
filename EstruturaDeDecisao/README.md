@@ -5,14 +5,14 @@
 
 - [X] 2 - Faça um Programa que peça um valor e mostre na tela se o valor é positivo ou negativo.<br><br>
 
-- [ ] 3 - Faça um Programa que verifique se uma letra digitada é "F" ou "M".<br>
+- [X] 3 - Faça um Programa que verifique se uma letra digitada é "F" ou "M".<br>
 ```
-Conforme a letra escrever: 
-    * F - Feminino
-    * M - Masculino
-    * Sexo Inválido.
+    Conforme a letra escrever: 
+        * F - Feminino
+        * M - Masculino
+        * Sexo Inválido.
 ```
-- [ ] 4 - Faça um Programa que verifique se uma letra digitada é vogal ou consoante.<br><br>
+- [X] 4 - Faça um Programa que verifique se uma letra digitada é vogal ou consoante.<br><br>
 
 - [ ] 5 - Faça um programa para a leitura de duas notas parciais de um aluno. O programa deve calcular a média alcançada por aluno e apresentar:<br>
 ```

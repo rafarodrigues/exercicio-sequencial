@@ -21,10 +21,10 @@ peso = float(input('Digite o peso do peixe: '))
 
 if peso > 50:
     excesso = peso - 50
-    multa = peso + (excesso * 4)
+    multa = int(peso + (excesso * 4))
     print('O limite no estado é de 50kg e será cobrado um valor de R$ 4,00 por kg excedente')
-    print(f'O excedente foi: {excesso}')
-    print(f'A multa foi: {multa}')
+    print(f'O excedente foi: {excesso:.2f}')
+    print(f'A multa foi: {multa:.2f}')
 else:
-    print(f'O limite no estado é de 50kg e seu peso foi de: {peso}kg')
+    print(f'O limite no estado é de 50kg e seu peso foi de: {peso:.2f}kg')
 
