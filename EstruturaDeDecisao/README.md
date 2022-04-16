@@ -23,11 +23,11 @@ A mensagem "Aprovado com Distinção", se a média for igual a dez.<br><br>
 
 - [X] 6 -  Faça um Programa que leia três números e mostre o maior deles.<br><br>
 
-- [ ] 7 - Faça um Programa que leia três números e mostre o maior e o menor deles.<br><br>
+- [X] 7 - Faça um Programa que leia três números e mostre o maior e o menor deles.<br><br>
 
-- [ ] 8 - Faça um programa que pergunte o preço de três produtos e informe qual produto você deve comprar, sabendo que a decisão é sempre pelo mais barato.<br><br>
+- [X] 8 - Faça um programa que pergunte o preço de três produtos e informe qual produto você deve comprar, sabendo que a decisão é sempre pelo mais barato.<br><br>
 
-- [ ] 9 - Faça um Programa que leia três números e mostre-os em ordem decrescente.<br><br>
+- [X] 9 - Faça um Programa que leia três números e mostre-os em ordem decrescente.<br><br>
 
 - [ ] 10 - Faça um Programa que pergunte em que turno você estuda. Peça para digitar 
 
