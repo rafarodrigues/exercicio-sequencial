@@ -14,14 +14,14 @@
 ```
 - [X] 4 - Faça um Programa que verifique se uma letra digitada é vogal ou consoante.<br><br>
 
-- [ ] 5 - Faça um programa para a leitura de duas notas parciais de um aluno. O programa deve calcular a média alcançada por aluno e apresentar:<br>
+- [X] 5 - Faça um programa para a leitura de duas notas parciais de um aluno. O programa deve calcular a média alcançada por aluno e apresentar:<br>
 ```
 A mensagem "Aprovado", se a média alcançada for maior ou igual a sete;
 A mensagem "Reprovado", se a média for menor do que sete;
 A mensagem "Aprovado com Distinção", se a média for igual a dez.<br><br>
 ```
 
-- [ ] 6 -  Faça um Programa que leia três números e mostre o maior deles.<br><br>
+- [X] 6 -  Faça um Programa que leia três números e mostre o maior deles.<br><br>
 
 - [ ] 7 - Faça um Programa que leia três números e mostre o maior e o menor deles.<br><br>
 
